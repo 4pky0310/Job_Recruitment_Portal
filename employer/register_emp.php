@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <title> NEW CLIENT REGISTRATION </title>
 
- <script type="text/javascript" src="/job_portal/js/validate.js"></script>
+ <script type="text/javascript" src="../js/validate.js"></script>
          <script>
              function checkForm() {
 // Fetching values from all input fields and storing them in variables.
@@ -237,6 +237,7 @@ else {
                   <div class="form-inline"> 
                     <select name="country" class=" form-control countries" id="countryId" style="width:145px;" required>
                         <option value="">Select Country</option>
+                        
                      </select>
                    
                     <select name="state" class="form-control states" id="stateId" style="width:145px;" required>
