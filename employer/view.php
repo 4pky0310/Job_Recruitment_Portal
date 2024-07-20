@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Sreelal
+ * User: Pawan
  * Date: 09-04-2016
  * Time: 09:19 PM
  * Online-Job-Portal - A web application built on PHP HTML & javascript
